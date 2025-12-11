@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Labmentix/RealEstateInvestmentAdvisor/mlruns/719256710663922262/models/m-579f913905b6415e9829363fdc2e1e91/artifacts
+creation_timestamp: 1764869028740
+experiment_id: '719256710663922262'
+last_updated_timestamp: 1764869057078
+model_id: m-579f913905b6415e9829363fdc2e1e91
+model_type: null
+name: regression_model
+source_run_id: cca380453a3042a1b6989d34971dd546
+status: 2
+status_message: null

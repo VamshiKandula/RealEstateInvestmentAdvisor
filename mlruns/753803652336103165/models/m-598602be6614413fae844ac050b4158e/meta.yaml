@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Labmentix/RealEstateInvestmentAdvisor/mlruns/753803652336103165/models/m-598602be6614413fae844ac050b4158e/artifacts
+creation_timestamp: 1764868266783
+experiment_id: '753803652336103165'
+last_updated_timestamp: 1764868283275
+model_id: m-598602be6614413fae844ac050b4158e
+model_type: null
+name: classification_model
+source_run_id: b199197130ee49d7841d2c984f67df4a
+status: 2
+status_message: null

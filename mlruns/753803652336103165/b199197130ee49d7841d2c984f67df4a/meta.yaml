@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Labmentix/RealEstateInvestmentAdvisor/mlruns/753803652336103165/b199197130ee49d7841d2c984f67df4a/artifacts
+end_time: 1764868283411
+entry_point_name: ''
+experiment_id: '753803652336103165'
+lifecycle_stage: active
+run_id: b199197130ee49d7841d2c984f67df4a
+run_name: bold-stoat-819
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764868193046
+status: 3
+tags: []
+user_id: vamsh

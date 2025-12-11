@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Labmentix/RealEstateInvestmentAdvisor/mlruns/719256710663922262/cca380453a3042a1b6989d34971dd546/artifacts
+end_time: 1764869060318
+entry_point_name: ''
+experiment_id: '719256710663922262'
+lifecycle_stage: active
+run_id: cca380453a3042a1b6989d34971dd546
+run_name: angry-bat-245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764868314713
+status: 3
+tags: []
+user_id: vamsh
