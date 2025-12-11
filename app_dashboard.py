@@ -7,10 +7,11 @@ from pathlib import Path
 from difflib import get_close_matches
 import plotly.express as px
 
-ROOT = Path(r"D:\Labmentix\RealEstateInvestmentAdvisor")
+ROOT = Path(__file__).parent
+
 DATA_PATH = ROOT / "data" / "cleaned_housing_data.csv"
-CLF_PATH = ROOT / "models" / "investment_classifier_memsafe.pkl"
-REG_PATH = ROOT / "models" / "future_price_regressor_memsafe.pkl"
+CLF_PATH  = ROOT / "models" / "investment_classifier_memsafe.pkl"
+REG_PATH  = ROOT / "models" / "future_price_regressor_memsafe.pkl"
 
 st.set_page_config(page_title="Real Estate Dashboard", layout="wide", initial_sidebar_state="expanded")
 
